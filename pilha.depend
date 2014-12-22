@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1419243632 source:c:\users\duarte\ufba\estrutura de dados\atividade 3\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"PFJ.h"
+	<string.h>
+
+1418892200 c:\users\duarte\ufba\estrutura de dados\atividade 3\pilha\pilha.h
+
+1419242970 c:\users\duarte\ufba\estrutura de dados\atividade 3\pilha\fila.h
+
+1419243403 c:\users\duarte\ufba\estrutura de dados\atividade 3\pilha\pfj.h
+	<time.h>
+	<windows.h>
+	"pilha.h"
+	"fila.h"
+
